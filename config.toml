@@ -8,28 +8,22 @@ pygmentsUseClasses = true
 
 [params]
   author = "Joey Li"
-  description = "In solitude, where we are least alone."
-  github = "MeiK2333"
-  facebook = "MeiK2333"
-  twitter = "MeiK2333"
-  linkedin = "MeiK2333"
-  instagram = "MeiK2333"
-  tumblr = "MeiK2333"
-  email = "meik2333@gmail.com"
+  description = "Welcome to Joey's Blog"
+  github = "Lzy17"
+  twitter = "Jozzy83322411"
+  linkedin = "zhaoyi-joey-li"
+  email = "jozzy.dev@gmail.com"
   url = "https://lzy17.github.io/"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
   favicon = "/images/github.png"
-  location = "China"
+  location = "San Diego, CA, US"
+  avatar = "https://avatars3.githubusercontent.com/u/36555117?s=460&u=7ed115979d999523eaff4f0fead1d6a33edfdb5c&v=4"
 
   [[params.links]]
-    title = "Link"
-    href = "https://github.com/Lzy17"
-  [[params.links]]
     title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://jozzy.dev"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
