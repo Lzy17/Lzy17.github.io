@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joey&#39;s blog</title>
-    <link>https://lzy17.github.io/</link>
+    <link>https://jozzy.dev/</link>
     <description>Recent content on Joey&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 Jan 2021 06:56:11 -0800</lastBuildDate><atom:link href="https://lzy17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 06:56:11 -0800</lastBuildDate><atom:link href="https://jozzy.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing_gh_page</title>
-      <link>https://lzy17.github.io/post/testing_gh_page/</link>
+      <link>https://jozzy.dev/post/testing_gh_page/</link>
       <pubDate>Wed, 06 Jan 2021 06:56:11 -0800</pubDate>
       
-      <guid>https://lzy17.github.io/post/testing_gh_page/</guid>
+      <guid>https://jozzy.dev/post/testing_gh_page/</guid>
       <description>for testing</description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>https://lzy17.github.io/post/testing/</link>
+      <link>https://jozzy.dev/post/testing/</link>
       <pubDate>Wed, 06 Jan 2021 05:50:45 -0800</pubDate>
       
-      <guid>https://lzy17.github.io/post/testing/</guid>
+      <guid>https://jozzy.dev/post/testing/</guid>
       <description>for testing use</description>
     </item>
     
     <item>
       <title>222</title>
-      <link>https://lzy17.github.io/post/222/</link>
+      <link>https://jozzy.dev/post/222/</link>
       <pubDate>Wed, 06 Jan 2021 05:46:56 -0800</pubDate>
       
-      <guid>https://lzy17.github.io/post/222/</guid>
+      <guid>https://jozzy.dev/post/222/</guid>
       <description>2qsajhdklashdlkjasbkljah</description>
     </item>
     
     <item>
       <title>111</title>
-      <link>https://lzy17.github.io/post/111/</link>
+      <link>https://jozzy.dev/post/111/</link>
       <pubDate>Wed, 06 Jan 2021 05:44:37 -0800</pubDate>
       
-      <guid>https://lzy17.github.io/post/111/</guid>
+      <guid>https://jozzy.dev/post/111/</guid>
       <description>1111111</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lzy17.github.io/readme/</link>
+      <link>https://jozzy.dev/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lzy17.github.io/readme/</guid>
+      <guid>https://jozzy.dev/readme/</guid>
       <description>Who am I? Joey Li  Research Assistant @ San Diego Supercomputer Center  Research Interests  HPC Quantum Algorithm  Skills  C/C++ Python ( TensorFlow (2.x.x sucks btw) | PyTorch ) Java HTML / JavaScript / CSS Fortran (beginner)  </description>
     </item>
     
